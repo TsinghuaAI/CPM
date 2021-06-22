@@ -13,6 +13,8 @@ Codes:
 * [CPM-1-Distill](https://github.com/TsinghuaAI/CPM-1-Distill)
 * [TDS](https://github.com/TsinghuaAI/TDS)
 
+Models: [[Download](https://resource.wudaoai.cn/home?ind=2)]
+
 ## CPM-2
 
 CPM-2: Large-scale **C**ost-effective **P**re-trained Language **M**odels. [[paper](https://github.com/TsinghuaAI/CPM/blob/main/CPM-2.pdf)]
@@ -21,6 +23,8 @@ Codes:
 * [CPM-2-Pretrain](https://github.com/TsinghuaAI/CPM-2-Pretrain)
 * [CPM-2-Finetune](https://github.com/TsinghuaAI/CPM-2-Finetune)
 * [InfMoE](https://github.com/TsinghuaAI/InfMoE)
+
+Models: [[Download](https://cpm.baai.ac.cn/login.html?path=%2Fdownload.html)]
 
 ## PLM Survey
 
