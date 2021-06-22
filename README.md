@@ -30,6 +30,10 @@ Models: [[Download](https://resource.wudaoai.cn/home?ind=2)]
 
 Pre-Trained Models: Past, Present and Future. [[paper](https://arxiv.org/abs/2106.07139)]
 
+## Useful Links
+
+* Article Generation with CPM-1. [[link](https://github.com/yangjianxin1/CPM)]
+
 ## Cite
 
 ```
