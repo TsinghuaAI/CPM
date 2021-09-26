@@ -2,6 +2,8 @@
 
 CPM is an open-source program on large-scale pre-trained models, which is conducted by Beijing Academy of Artificial Intelligence and Tsinghua University, with the goal of building large-scale Chinese-centered pre-trained models. The open-source models can be widely used in Chinese natural language understanding, generative tasks, and all of them are free and open for download for research use.
 
+**If you want better efficiency during inference, we recommend [BMInf](https://github.com/OpenBMB/BMInf), which supports the inference of big models with a single GTX 1060 or later ones.**
+
 ## CPM-1
 
 CPM: A Large-scale Generative **C**hinese **P**re-trained Language **M**odel. [[paper](https://arxiv.org/abs/2012.00413)]
